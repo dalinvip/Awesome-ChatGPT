@@ -40,6 +40,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【技术解读】[张俊林-通向AGI之路：大型语言模型（LLM）技术精要](https://zhuanlan.zhihu.com/p/597586623)  
 【技术解读】[ChatGPT/InstructGPT详解](https://zhuanlan.zhihu.com/p/590311003)  
 【技术解读】[ 赛尔笔记 | 浅析ChatGPT的原理及应用 ](https://mp.weixin.qq.com/s/wLVoY6BwWd9p4DqrpOMOxg)  
+【技术解读】[抱抱脸：ChatGPT背后的算法——RLHF | 附12篇RLHF必刷论文](https://zhuanlan.zhihu.com/p/592671478)  
 
 
 # 实践
