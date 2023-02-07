@@ -53,6 +53,7 @@ ChatGPT资料汇总学习
 【知乎问答】[如何评价 ChatGPT ？会取代搜索引擎吗？](https://www.zhihu.com/question/570062224)  
 【张俊林】[ChatGPT会取代搜索引擎吗](https://zhuanlan.zhihu.com/p/589533490)  
 【新智远】[ChatGPT爆火，LeCun心态崩了！称大语言模型是邪路，Meta模型3天惨遭下线](https://mp.weixin.qq.com/s/Q9H-78VyI1tZ_9u1kvF_nA)  
+【知乎问答】[如何评价 OpenAI 的超级对话模型 ChatGPT ？](https://www.zhihu.com/question/570189639)  
 
 
 
