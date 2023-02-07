@@ -1,5 +1,6 @@
 # Awesome-ChatGPT
-ChatGPT资料汇总学习，持续更新......
+ChatGPT资料汇总学习，持续更新......  
+ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程上的里程碑事件，还是噱头炒作，持续关注，让时间流淌~
 
 # 论文
 【OpenAI官方网站】[ChatGPT Blog](https://openai.com/blog/chatgpt/)  
