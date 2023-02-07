@@ -8,6 +8,9 @@ ChatGPT资料汇总学习
 【RHLF论文】[Augmenting Reinforcement Learning with Human Feedback](https://www.cs.utexas.edu/~ai-lab/pubs/ICML_IL11-knox.pdf)  
 【PPO算法论文】[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)  
 
+# 中文ChatGPT
+【魔改】[ 首个中文版ChatGPT来了：大模型的中国元“Yuan” ](https://mp.weixin.qq.com/s/riaR6FBoF1_vNT4zomyS1A)  
+
 # Github仓库
 【Github】[在微信上迅速接入 ChatGPT，让它成为你最好的助手！](https://github.com/fuergaosi233/wechat-chatgpt)  
 【Github】[Reverse Engineered ChatGPT API by OpenAI. Extensible for chatbots etc.](https://github.com/acheong08/ChatGPT)  
