@@ -58,6 +58,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【张俊林】[ChatGPT会取代搜索引擎吗](https://zhuanlan.zhihu.com/p/589533490)  
 【新智远】[ChatGPT爆火，LeCun心态崩了！称大语言模型是邪路，Meta模型3天惨遭下线](https://mp.weixin.qq.com/s/Q9H-78VyI1tZ_9u1kvF_nA)  
 【知乎问答】[如何评价 OpenAI 的超级对话模型 ChatGPT ？](https://www.zhihu.com/question/570189639)  
+【知乎问答】[百度类似 ChatGPT 的项目名字确定为「文心一言」，三月份完成内测，哪些信息值得关注？](https://www.zhihu.com/question/582588618)  
 
 # 新闻时讯
 【时讯】[Google发布Bard与ChatGPT竞争](https://hub.baai.ac.cn/view/23925)  
