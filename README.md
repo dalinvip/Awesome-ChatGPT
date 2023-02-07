@@ -63,6 +63,9 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【时讯】[Google发布Bard与ChatGPT竞争](https://hub.baai.ac.cn/view/23925)  
 
 
+# 交流共享
+ChatGPT交流学习![图片](https://user-images.githubusercontent.com/22359268/217158612-1368f85c-543a-4994-8b9a-59e9dcabdaa3.png =100x100)  
+群满加我微信(备注github-ChatGPT)![图片](https://user-images.githubusercontent.com/22359268/217158680-6ba21afc-ae46-4867-8091-c86b3f57e630.png =100x100)
 
 
 # 关于我
