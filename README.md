@@ -42,6 +42,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【技术解读】[ChatGPT/InstructGPT详解](https://zhuanlan.zhihu.com/p/590311003)  
 【技术解读】[ 赛尔笔记 | 浅析ChatGPT的原理及应用 ](https://mp.weixin.qq.com/s/wLVoY6BwWd9p4DqrpOMOxg)  
 【技术解读】[抱抱脸：ChatGPT背后的算法——RLHF | 附12篇RLHF必刷论文(论文在上面资料中)](https://zhuanlan.zhihu.com/p/592671478)  
+【技术解读】[ChatGPT背后人工智能算法全部由国外公司发明](https://xueqiu.com/5760078642/241228577)  
 
 
 # 实践
