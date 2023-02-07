@@ -1,5 +1,5 @@
 # Awesome-ChatGPT
-ChatGPT资料汇总学习
+ChatGPT资料汇总学习，持续更新......
 
 # 论文
 【OpenAI】[ChatGPT Blog](https://openai.com/blog/chatgpt/)  
