@@ -2,6 +2,11 @@
 ChatGPT资料汇总学习，持续更新......  
 ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程上的里程碑事件，还是噱头炒作，持续关注，让时间流淌~
 
+<div align=center>
+<img src="pic/chatgpt-3.jpg" width="50%" height="50%" div align=center />
+<img src="pic/chatgpt-2.jpg" width="30%" height="30%" div align=center />
+</div>   
+
 # 论文
 【OpenAI官方网站】[ChatGPT Blog](https://openai.com/blog/chatgpt/)  
 【ChatGPTPro】[ChatGPTPro](https://chatgpt.pro/)  
