@@ -93,7 +93,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 # 交流共享
 ChatGPT交流学习、群满加我微信(备注github-ChatGPT)  
 
-<img src="https://user-images.githubusercontent.com/22359268/217165211-9578f8a1-fb43-4dde-89bf-5d7f2888a147.png" width="30%" height="30%" /> <img src="https://user-images.githubusercontent.com/22359268/217158680-6ba21afc-ae46-4867-8091-c86b3f57e630.png" width="30%" height="30%" />   
+<img src="https://user-images.githubusercontent.com/22359268/217165211-9578f8a1-fb43-4dde-89bf-5d7f2888a147.png" width="30%" height="30%" /> <img src="https://user-images.githubusercontent.com/22359268/217158680-6ba21afc-ae46-4867-8091-c86b3f57e630.png" width="25%" height="25%" /> <img src="pic/dalinvip打赏.jpeg" width="30%" height="30%" />   
 
 
 # 关于我
