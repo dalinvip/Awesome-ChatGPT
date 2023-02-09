@@ -93,6 +93,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【知乎问答】[百度类似 ChatGPT 的项目名字确定为「文心一言」，三月份完成内测，哪些信息值得关注？](https://www.zhihu.com/question/582588618)  
 【谷歌CEO】[An important next step on our AI journey](https://blog.google/technology/ai/bard-google-ai-search-updates/)  
 【知乎问答】[OpenAI 的 ChatGPT 会怎样影响国内的 NLP 研究？](https://www.zhihu.com/question/571460238)  
+【量子位】[ChatGPT偷家：Stack Overflow正被程序员抛弃，访问量一个月骤降3200W](https://zhuanlan.zhihu.com/p/602818608)  
 
 
 # 交流共享
