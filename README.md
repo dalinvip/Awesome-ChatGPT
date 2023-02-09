@@ -10,7 +10,9 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 # 论文
 【OpenAI官方网站】[ChatGPT Blog](https://openai.com/blog/chatgpt/)  
 【ChatGPTPro】[ChatGPTPro](https://chatgpt.pro/)  
-【GPT论文】[Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)  
+【GPT-1论文】[Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)  
+【GPT-2论文】[Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)  
+【GPT-3论文】[Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)  
 【InstructGPT论文】[Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf)  
 【RHLF论文】[Augmenting Reinforcement Learning with Human Feedback](https://www.cs.utexas.edu/~ai-lab/pubs/ICML_IL11-knox.pdf)  
 【RHLF相关论文12篇】[RHLF论文集](PDF/RLHF论文集/)  
