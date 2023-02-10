@@ -7,6 +7,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 <img src="pic/chatgpt-2.jpg" width="30%" height="30%" div align=center />
 </div>   
 
+
 # 新闻时讯
 【时讯】[Google发布Bard与ChatGPT竞争](https://hub.baai.ac.cn/view/23925)  
 【时讯】[重磅，微软发布 ChatGPT 版搜索引擎，用上了比 ChatGPT 更强大的技术](https://www.36kr.com/p/2122399289378949)  
@@ -31,6 +32,8 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【PDF资料】[从CHAT_GPT到生成式AI（Generative AI）：人工智能新范式，重新定义生产力.pdf](PDF/从CHAT_GPT到生成式AI.pdf)  
 【PDF资料】[ChatGPT - 开启AI新纪元.pdf](PDF/ChatGPT-开启AI新纪元.pdf)  
 【PDF资料】[ChatGPT研究框架](https://mp.weixin.qq.com/s/YtJn2pfdS_on1nSATOylYw)  
+【PDF资料】[ChatGPT研究框架2023.pdf](PDF/ChatGPT-研究框架2023.pdf)  
+【PDF资料】[AIGC行业深度报告-ChatGPT-重新定义搜索“入口”.pdf](PDF/AIGC行业深度报告-ChatGPT-重新定义搜索“入口”.pdf)  
 
 # 技术解读
 【技术解读】[huggingface解读 Illustrating Reinforcement Learning from Human Feedback (RLHF) ](https://huggingface.co/blog/rlhf)  
@@ -96,6 +99,11 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【知乎问答】[OpenAI 的 ChatGPT 会怎样影响国内的 NLP 研究？](https://www.zhihu.com/question/571460238)  
 【量子位】[ChatGPT偷家：Stack Overflow正被程序员抛弃，访问量一个月骤降3200W](https://zhuanlan.zhihu.com/p/602818608)  
 
+# 欢迎共建
+【1】、欢迎👏🏻 Star ⭐️⭐️⭐️⭐️⭐️ && 提交 Pull requests 👏🏻👏🏻👏🏻  
+
+# 推荐梯子🪜
+【🪜】
 
 # 交流共享
 ChatGPT交流学习、群满加我微信(备注github-ChatGPT), 行路难，感谢老板随意赏~  
@@ -107,6 +115,6 @@ ChatGPT交流学习、群满加我微信(备注github-ChatGPT), 行路难，感�
 大林，NLP/知识图谱算法工程师  
 v: dalinvip2023
 
-# ⚠️⚠️⚠️声明
+# ⚠️声明
 以上资料来自网络整理，供大家学习参考，如有侵权，麻烦联系我删除！  
 v: dalinvip2023  
