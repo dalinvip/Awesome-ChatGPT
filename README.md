@@ -32,7 +32,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【PDF资料】[从CHAT_GPT到生成式AI（Generative AI）：人工智能新范式，重新定义生产力.pdf](PDF/从CHAT_GPT到生成式AI.pdf)  
 【PDF资料】[ChatGPT - 开启AI新纪元.pdf](PDF/ChatGPT-开启AI新纪元.pdf)  
 【PDF资料】[ChatGPT研究框架](https://mp.weixin.qq.com/s/YtJn2pfdS_on1nSATOylYw)  
-【PDF资料】[ChatGPT研究框架2023.pdf](PDF/ChatGPT-研究框架2023.pdf)  
+【PDF资料】[ChatGPT研究框架2023.pdf](PDF/ChatGPT研究框架2023.pdf)  
 【PDF资料】[AIGC行业深度报告-ChatGPT-重新定义搜索“入口”.pdf](PDF/AIGC行业深度报告-ChatGPT-重新定义搜索“入口”.pdf)  
 
 # 技术解读
@@ -71,6 +71,9 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 # Github-ChatGPT-周边
 【ChatRWKV】[ChatRWKV is like ChatGPT but powered by my RWKV language model](https://github.com/BlinkDL/ChatRWKV)  
 
+# Github-GPT系列
+【GPT系列项目】[GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese)  
+
 
 # 实践
 【实践】[量子位-ChatGPT能接入微信了！](https://zhuanlan.zhihu.com/p/590505058)  
@@ -100,7 +103,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【量子位】[ChatGPT偷家：Stack Overflow正被程序员抛弃，访问量一个月骤降3200W](https://zhuanlan.zhihu.com/p/602818608)  
 
 # 欢迎共建
-【1】、欢迎👏🏻 Star ⭐️⭐️⭐️⭐️⭐️ && 提交 Pull requests 👏🏻👏🏻👏🏻  
+【👬🏻】、欢迎👏🏻 Star ⭐️⭐️⭐️⭐️⭐️ && 提交 Pull requests 👏🏻👏🏻👏🏻  
 
 # 推荐梯子🪜
 【🪜】
