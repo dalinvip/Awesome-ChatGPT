@@ -114,9 +114,9 @@ ChatGPT交流学习、群满加我微信(备注github-ChatGPT)
 【🪜】[推荐这个梯子，稳定便宜，节点多，速度快，支持MacOS、Windows、安卓、IOS，配置方便](https://sockboom.bar/auth/register?affid=610243)  
 
 # 交流共享
-ChatGPT交流学习、群满加我微信(备注github-ChatGPT), 行路难，感谢老板随意赏~  
+群满加我微信(备注github-ChatGPT), 行路难，感谢老板随意赏~  
 
-<img src="https://user-images.githubusercontent.com/22359268/217165211-9578f8a1-fb43-4dde-89bf-5d7f2888a147.png" width="30%" height="30%" /> <img src="https://user-images.githubusercontent.com/22359268/217158680-6ba21afc-ae46-4867-8091-c86b3f57e630.png" width="25%" height="25%" /> <img src="pic/dalinvip打赏.jpeg" width="30%" height="30%" />   
+<img src="https://user-images.githubusercontent.com/22359268/217158680-6ba21afc-ae46-4867-8091-c86b3f57e630.png" width="25%" height="25%" /> <img src="pic/dalinvip打赏.jpeg" width="30%" height="30%" />   
 
 
 # 关于我
