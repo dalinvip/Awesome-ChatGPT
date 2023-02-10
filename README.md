@@ -1,4 +1,6 @@
 # Awesome-ChatGPT
+[![Stars](https://img.shields.io/github/stars/dalinvip/Awesome-ChatGPT)](https://github.com/dalinvip/Awesome-ChatGPT) [![Issues](https://img.shields.io/github/issues/dalinvip/Awesome-ChatGPT)](https://github.com/dalinvip/Awesome-ChatGPT/issues)
+
 ChatGPT资料汇总学习，持续更新......  
 ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程上的里程碑事件，还是噱头炒作，持续关注，让时间流淌~
 
@@ -24,6 +26,7 @@ ChatGPT交流学习、群满加我微信(备注github-ChatGPT)
 【时讯】[今天，微软重新发明搜索引擎：首款ChatGPT搜索来了](https://mp.weixin.qq.com/s/bZlpr4BhL4wpiE0TQovuxg)  
 【时讯】[见证历史：ChatGPT版搜索引擎登场，12个新体验太震撼了](https://36kr.com/p/2123086022363273)  
 【央视网】[实测“山寨”ChatGPT：费用挺高，答案离谱](https://mp.weixin.qq.com/s/3TF7Yb2uC1PW22K-aSZ3fw)  
+【CCTV4】[ChatGPT狂飙！科技巨头纷纷布局](https://mp.weixin.qq.com/s/DGyOK2L-zOhODtWvf-wn-A)
 【机器之心】[微软ChatGPT版必应被黑掉了，全部Prompt泄露](https://mp.weixin.qq.com/s/89KeLjDoS9IyArIr8z6jjg)  
 
 </details>
@@ -209,6 +212,10 @@ ChatGPT交流学习、群满加我微信(备注github-ChatGPT)
 # 关于我
 大林，NLP/知识图谱算法工程师  
 v: dalinvip2023
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=dalinvip/Awesome-ChatGPT&type=Timeline)](https://star-history.com/#dalinvip/Awesome-ChatGPT&Timeline)
 
 # ⚠️声明
 以上资料来自网络整理，供大家学习参考，如有侵权，麻烦联系我删除！  
