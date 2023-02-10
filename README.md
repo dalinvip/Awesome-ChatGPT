@@ -13,6 +13,9 @@ ChatGPT交流学习、群满加我微信(备注github-ChatGPT)
 <img src="https://user-images.githubusercontent.com/22359268/217165211-9578f8a1-fb43-4dde-89bf-5d7f2888a147.png" width="30%" height="30%" /> <img src="https://user-images.githubusercontent.com/22359268/217158680-6ba21afc-ae46-4867-8091-c86b3f57e630.png" width="25%" height="25%" /> 
 
 # 新闻时讯
+【时讯】[Google发布Bard与ChatGPT竞争](https://hub.baai.ac.cn/view/23925)  
+【时讯】[重磅，微软发布 ChatGPT 版搜索引擎，用上了比 ChatGPT 更强大的技术](https://www.36kr.com/p/2122399289378949)  
+【时讯】[今天，微软重新发明搜索引擎：首款ChatGPT搜索来了](https://mp.weixin.qq.com/s/bZlpr4BhL4wpiE0TQovuxg)  
 <details>
 <summary>CLICK ME(点我查看全部)</summary>
 
@@ -27,6 +30,9 @@ ChatGPT交流学习、群满加我微信(备注github-ChatGPT)
 
 
 # 论文
+【InstructGPT论文】[Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf)  
+【RHLF论文】[Augmenting Reinforcement Learning with Human Feedback](https://www.cs.utexas.edu/~ai-lab/pubs/ICML_IL11-knox.pdf)  
+【PPO算法论文】[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)  
 <details>
 <summary>CLICK ME(点我查看全部)</summary>
 
@@ -43,6 +49,9 @@ ChatGPT交流学习、群满加我微信(备注github-ChatGPT)
 </details>
 
 # 资料
+【PDF资料】[ChatGPT-真格基金分享.pdf](PDF/ChatGPT-真格基金分享.pdf)  
+【PDF资料】[腾讯研究院AIGC发展趋势报告2023.pdf](PDF/腾讯研究院AIGC发展趋势报告2023.pdf)  
+【PDF资料】[从CHAT_GPT到生成式AI（Generative AI）：人工智能新范式，重新定义生产力.pdf](PDF/从CHAT_GPT到生成式AI.pdf)  
 <details>
 <summary>CLICK ME(点我查看全部)</summary>
 
@@ -58,6 +67,9 @@ ChatGPT交流学习、群满加我微信(备注github-ChatGPT)
  
 
 # 技术解读
+【技术解读】[huggingface解读 Illustrating Reinforcement Learning from Human Feedback (RLHF) ](https://huggingface.co/blog/rlhf)  
+【技术解读】[ChatGPT发展历程、原理、技术架构详解和产业未来 （收录于先进AI技术深度解读）](https://zhuanlan.zhihu.com/p/590655677)  
+【技术解读】[ChatGPT内核：InstructGPT，基于反馈指令的PPO强化学习](https://zhuanlan.zhihu.com/p/589747432)  
 <details>
 <summary>CLICK ME(点我查看全部)</summary>
 
@@ -79,6 +91,9 @@ ChatGPT交流学习、群满加我微信(备注github-ChatGPT)
 
 
 # 视频讲解
+【李宏毅】[ChatGPT (可能)是怎麼煉成的 - GPT 社會化的過程](https://www.bilibili.com/video/BV1U84y167i3?p=1&vd_source=71b548de6de953e10b96b6547ada83f2)   
+【陈縕侬】[深度學習之應用 | ADL 17.3: OpenAI ChatGPT 驚驗眾人的對話互動式AI](https://www.bilibili.com/video/BV1U84y167i3?p=3&vd_source=71b548de6de953e10b96b6547ada83f2)  
+【李沐】[InstructGPT 论文精读【论文精读·48】](https://www.bilibili.com/video/BV1hd4y187CR/?spm_id_from=333.788&vd_source=71b548de6de953e10b96b6547ada83f2)
 <details>
 <summary>CLICK ME(点我查看全部)</summary>
 
@@ -98,6 +113,8 @@ ChatGPT交流学习、群满加我微信(备注github-ChatGPT)
 </details>
 
 # Github-ChatGPT
+【Github】[在微信上迅速接入 ChatGPT，让它成为你最好的助手！](https://github.com/fuergaosi233/wechat-chatgpt)  
+【Github】[Reverse Engineered ChatGPT API by OpenAI. Extensible for chatbots etc.](https://github.com/acheong08/ChatGPT)  
 <details>
 <summary>CLICK ME(点我查看全部)</summary>
 
@@ -114,6 +131,7 @@ ChatGPT交流学习、群满加我微信(备注github-ChatGPT)
 </details>
 
 # Github-ChatGPT-周边
+【ChatRWKV】[ChatRWKV is like ChatGPT but powered by my RWKV language model](https://github.com/BlinkDL/ChatRWKV)  
 <details>
 <summary>CLICK ME(点我查看全部)</summary>
 
@@ -122,6 +140,7 @@ ChatGPT交流学习、群满加我微信(备注github-ChatGPT)
 </details>
 
 # Github-GPT系列
+【GPT系列项目】[GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese)  
 <details>
 <summary>CLICK ME(点我查看全部)</summary>
 
@@ -131,6 +150,9 @@ ChatGPT交流学习、群满加我微信(备注github-ChatGPT)
 
 
 # 实践
+【实践】[量子位-ChatGPT能接入微信了！](https://zhuanlan.zhihu.com/p/590505058)  
+【实践】[在国内，如何玩一下chatgpt？](https://www.zhihu.com/question/570939438)  
+【小白注册教程】[ChatGPT 怎么用最新详细教程-新手小白一看就会](https://www.cnblogs.com/chat-gpt/p/how-to-use-chatgpt-in-china.html) 
 <details>
 <summary>CLICK ME(点我查看全部)</summary>
 
@@ -142,6 +164,9 @@ ChatGPT交流学习、群满加我微信(备注github-ChatGPT)
 
 
 # 相关文章
+【张俊林】[ChatGPT会取代搜索引擎吗](https://zhuanlan.zhihu.com/p/589533490)  
+【新智元】[ChatGPT爆火，LeCun心态崩了！称大语言模型是邪路，Meta模型3天惨遭下线](https://mp.weixin.qq.com/s/Q9H-78VyI1tZ_9u1kvF_nA)  
+【知乎问答】[如何评价 OpenAI 的超级对话模型 ChatGPT ？](https://www.zhihu.com/question/570189639)  
 <details>
 <summary>CLICK ME(点我查看全部)</summary>
 
