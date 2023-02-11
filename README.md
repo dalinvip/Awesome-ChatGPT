@@ -12,7 +12,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 # 交流共享
 ChatGPT交流学习、群满加我微信(备注github-ChatGPT)
 
-<img src="https://user-images.githubusercontent.com/22359268/217165211-9578f8a1-fb43-4dde-89bf-5d7f2888a147.png" width="30%" height="30%" /> <img src="https://user-images.githubusercontent.com/22359268/217158680-6ba21afc-ae46-4867-8091-c86b3f57e630.png" width="25%" height="25%" /> 
+<img src="https://user-images.githubusercontent.com/22359268/217165211-9578f8a1-fb43-4dde-89bf-5d7f2888a147.png" width="15%" height="15%" /> <img src="https://user-images.githubusercontent.com/22359268/217158680-6ba21afc-ae46-4867-8091-c86b3f57e630.png" width="10%" height="10%" /> 
 
 # AI商业化(过后删)
 看到个有趣的项目，和AI相关的商业拆解，会有最近🔥的chatgpt，里面的思路可以借鉴，不免费但现在还就是一顿午饭，感兴趣的看
