@@ -14,6 +14,12 @@ ChatGPT交流学习、群满加我微信(备注github-ChatGPT)
 
 <img src="https://user-images.githubusercontent.com/22359268/217165211-9578f8a1-fb43-4dde-89bf-5d7f2888a147.png" width="30%" height="30%" /> <img src="https://user-images.githubusercontent.com/22359268/217158680-6ba21afc-ae46-4867-8091-c86b3f57e630.png" width="25%" height="25%" /> 
 
+# AI商业化(过后删)
+看到个有趣的项目，和AI相关的商业拆解，会有最近🔥的chatgpt，里面的思路可以借鉴，不免费但现在还就是一顿午饭，感兴趣的看
+
+<img src="pic/AI商业化.jpeg" width="30%" height="30%" /> 
+
+
 # 新闻时讯
 【时讯】[Google发布Bard与ChatGPT竞争](https://hub.baai.ac.cn/view/23925)  
 【时讯】[重磅，微软发布 ChatGPT 版搜索引擎，用上了比 ChatGPT 更强大的技术](https://www.36kr.com/p/2122399289378949)  
