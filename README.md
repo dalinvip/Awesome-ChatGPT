@@ -70,7 +70,11 @@ ChatGPT交流学习、群满加我微信(备注github-ChatGPT)
 【PDF资料】[ChatGPT - 开启AI新纪元.pdf](PDF/ChatGPT-开启AI新纪元.pdf)  
 【PDF资料】[ChatGPT研究框架](https://mp.weixin.qq.com/s/YtJn2pfdS_on1nSATOylYw)  
 【PDF资料】[ChatGPT研究框架2023.pdf](PDF/ChatGPT研究框架2023.pdf)  
-【PDF资料】[AIGC行业深度报告-ChatGPT-重新定义搜索“入口”.pdf](PDF/AIGC行业深度报告-ChatGPT-重新定义搜索“入口”.pdf) 
+【PDF资料】[AIGC行业深度报告-ChatGPT-重新定义搜索“入口”.pdf](PDF/AIGC行业深度报告-ChatGPT-重新定义搜索“入口”.pdf)  
+【PDF资料】[三分钟看懂ChatGPT.pdf](PDF/三分钟看懂ChatGPT.pdf)  
+【PDF资料】[从ChatGPT到通用智能新长征上的新变化.pdf](PDF/从ChatGPT到通用智能新长征上的新变化.pdf)  
+【PDF资料】[像ChatGPT这样的工具如何改变你的企业.pdf](PDF/像ChatGPT这样的工具如何改变你的企业.pdf)  
+【PDF资料】[揭秘ChatGPT身后的AIGC技术和它的中国同行们.pdf](PDF/揭秘ChatGPT身后的AIGC技术和它的中国同行们.pdf)  
 
 </details>
  
