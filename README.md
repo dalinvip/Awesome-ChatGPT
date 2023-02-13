@@ -209,12 +209,8 @@ ChatGPT交流学习、群满加我微信(备注github-ChatGPT)
 </details>
 
 
-
 # 欢迎共建
 【👬🏻】、欢迎👏🏻 Star ⭐️⭐️⭐️⭐️⭐️ && 提交 Pull requests 👏🏻👏🏻👏🏻  
-
-# 推荐🪜
-【🪜】[推荐这个，稳定便宜，节点多，速度快，支持MacOS、Windows、安卓、IOS，配置方便](https://sockboom.bar/auth/register?affid=610243)  
 
 # 交流共享
 群满加我微信(备注github-ChatGPT), 行路难，感谢老板随意赏~  
