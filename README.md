@@ -10,12 +10,15 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 </div>   
 
 # 交流共享
-ChatGPT交流学习、群满加我微信(备注github-ChatGPT)
+【1】ChatGPT技术交流群，加我微信拉你一起交流学习(备注github-ChatGPT)  
+【2】注册ChatGPT账号麻烦的可以私信我取账号  
+【3】目前已把ChatGPT接入飞书(名额有限，仅针对无法科学上网的同学体验~)  
+【4】正在接入ChatGPT到微信群，可期待ing......  
 
-<img src="https://user-images.githubusercontent.com/22359268/217165211-9578f8a1-fb43-4dde-89bf-5d7f2888a147.png" width="15%" height="15%" /> <img src="https://user-images.githubusercontent.com/22359268/217158680-6ba21afc-ae46-4867-8091-c86b3f57e630.png" width="10%" height="10%" /> 
+<img src="https://user-images.githubusercontent.com/22359268/217165211-9578f8a1-fb43-4dde-89bf-5d7f2888a147.png" width="23%" height="23%" /> <img src="https://user-images.githubusercontent.com/22359268/217158680-6ba21afc-ae46-4867-8091-c86b3f57e630.png" width="20%" height="20%" /> 
 
 # AI商业化(过后删)
-看到个有趣的项目，和AI相关的商业拆解，会有最近🔥的chatgpt，里面的思路可以借鉴，不免费但现在还就是一顿午饭，感兴趣的看
+推荐一个AI商业解析项目，截止目前，已更新15篇文章，订阅者1300+，不是免费🆓的，需要一顿饭钱,之前价格22，现在价格26，内容持续更新，价格阶梯式上涨，感兴趣从速~  
 
 <img src="pic/AI商业化.jpeg" width="30%" height="30%" /> 
 
