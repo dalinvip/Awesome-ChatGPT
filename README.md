@@ -18,7 +18,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 <img src="pic/ChatGPT_Group2.jpeg" width="23%" height="23%" /> <img src="https://user-images.githubusercontent.com/22359268/217158680-6ba21afc-ae46-4867-8091-c86b3f57e630.png" width="20%" height="20%" /> 
 
 # AI商业化(过后删)
-推荐一个AI商业解析项目，截止目前，已更新15篇文章，订阅者1300+，不是免费🆓的，需要一顿饭钱,之前价格22，现在价格26，内容持续更新，价格阶梯式上涨，感兴趣从速扫描二维码~  
+推荐一个AI商业解析项目，截止目前，已更新16篇文章，订阅者1500+(图片没更新)，不是免费🆓的，需要一顿饭钱,之前价格22，现在价格26，内容持续更新，价格阶梯式上涨，感兴趣从速扫描二维码~  
 
 <img src="pic/AI商业化.jpg" width="25%" height="25%" /> 
 
