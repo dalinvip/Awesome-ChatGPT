@@ -57,6 +57,11 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【RHLF论文】[Augmenting Reinforcement Learning with Human Feedback](https://www.cs.utexas.edu/~ai-lab/pubs/ICML_IL11-knox.pdf)  
 【RHLF相关论文12篇】[RHLF论文集](PDF/RLHF论文集/)  
 【PPO算法论文】[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)  
+【Sparrow】[Improving alignment of dialogue agents via targeted human judgements](https://arxiv.org/abs/2209.14375)  
+【LaMda】[LaMDA: Language Models for Dialog Applications](https://arxiv.org/abs/2201.08239)  
+
+
+
 
 </details>
 
