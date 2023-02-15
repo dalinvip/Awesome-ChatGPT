@@ -65,6 +65,17 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 
 </details>
 
+# 三方代码实现
+【代码实现】 **ColossalAI** [hpcaitech/ColossalAI/ChatGPT](https://github.com/hpcaitech/ColossalAI/tree/main/applications/ChatGPT) , :+1: 如何使用可参考:[博客介绍](https://www.hpc-ai.tech/blog/colossal-ai-chatgpt)
+
+<details>
+<summary>CLICK ME(点我查看全部)</summary>
+
+【代码实现】 **ColossalAI** [hpcaitech/ColossalAI/ChatGPT](https://github.com/hpcaitech/ColossalAI/tree/main/applications/ChatGPT) , :+1: 如何使用可参考:[博客介绍](https://www.hpc-ai.tech/blog/colossal-ai-chatgpt)
+
+
+</details>
+
 # 资料
 【PDF资料】[ChatGPT-真格基金分享.pdf](PDF/ChatGPT-真格基金分享.pdf)  
 【PDF资料】[腾讯研究院AIGC发展趋势报告2023.pdf](PDF/腾讯研究院AIGC发展趋势报告2023.pdf)  
