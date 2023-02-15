@@ -10,7 +10,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 </div>   
 
 # 交流共享
-【1】ChatGPT技术交流群，加我微信拉你一起交流学习(备注github-ChatGPT)  
+【1】ChatGPT技术交流群，新开的②群，扫码直接进，群满加我微信拉你一起交流学习(备注github-ChatGPT)  
 【2】注册ChatGPT账号麻烦的可以私信我取账号  
 【3】目前已把ChatGPT接入飞书(名额有限，仅针对无法科学上网的同学体验~)  
 【4】正在接入ChatGPT到微信群，可期待ing......  
