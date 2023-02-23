@@ -24,36 +24,29 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 
 <img src="pic/AI商业化2.png" width="50%" height="50%" /> 
 
+<!--
 ## Midjourney进阶创意库  
 先简单把专栏的读者权益写在前面，有想详细了解的朋友，可以往后接着看:
 1.我会每篇提供同一个主题的图片，在 5-10 张左右; 2.专栏更新周期大概是一年，不少于 50 篇，因此图片大概在 300-500 张之间; 3.配合主题，我会介绍风格、艺术家和在 Midjourney 中的使用实例(prompts); 4.提供高清的图片，并放弃版权，可以非商用前提下随意使用;5.加入读者专属的微信群，讨论 Midiourney 的使用，和 AIGC 的动向。  
 
 <img src="pic/Midjourney进阶创意库.jpg" width="30%" height="30%" /> 
+-->
 
 # 新闻时讯
-【时讯】[Google发布Bard与ChatGPT竞争](https://hub.baai.ac.cn/view/23925)  
-【时讯】[重磅，微软发布 ChatGPT 版搜索引擎，用上了比 ChatGPT 更强大的技术](https://www.36kr.com/p/2122399289378949)  
-【时讯】[今天，微软重新发明搜索引擎：首款ChatGPT搜索来了](https://mp.weixin.qq.com/s/bZlpr4BhL4wpiE0TQovuxg)  
-<details>
-<summary>CLICK ME(点我查看全部)</summary>
 
 【时讯】[Google发布Bard与ChatGPT竞争](https://hub.baai.ac.cn/view/23925)  
 【时讯】[重磅，微软发布 ChatGPT 版搜索引擎，用上了比 ChatGPT 更强大的技术](https://www.36kr.com/p/2122399289378949)  
 【时讯】[今天，微软重新发明搜索引擎：首款ChatGPT搜索来了](https://mp.weixin.qq.com/s/bZlpr4BhL4wpiE0TQovuxg)  
 【时讯】[见证历史：ChatGPT版搜索引擎登场，12个新体验太震撼了](https://36kr.com/p/2123086022363273)  
 【央视网】[实测“山寨”ChatGPT：费用挺高，答案离谱](https://mp.weixin.qq.com/s/3TF7Yb2uC1PW22K-aSZ3fw)  
-【CCTV4】[ChatGPT狂飙！科技巨头纷纷布局](https://mp.weixin.qq.com/s/DGyOK2L-zOhODtWvf-wn-A)
+【CCTV4】[ChatGPT狂飙！科技巨头纷纷布局](https://mp.weixin.qq.com/s/DGyOK2L-zOhODtWvf-wn-A)  
 【机器之心】[微软ChatGPT版必应被黑掉了，全部Prompt泄露](https://mp.weixin.qq.com/s/89KeLjDoS9IyArIr8z6jjg)  
+【复旦大学】[资讯｜复旦团队发布国内首个类ChatGPT模型MOSS，邀公众参与内测](https://fddi.fudan.edu.cn/5b/e2/c21257a482274/page.htm)  
 
 </details>
 
 
 # 论文
-【InstructGPT论文】[Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf)  
-【RHLF论文】[Augmenting Reinforcement Learning with Human Feedback](https://www.cs.utexas.edu/~ai-lab/pubs/ICML_IL11-knox.pdf)  
-【PPO算法论文】[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)  
-<details>
-<summary>CLICK ME(点我查看全部)</summary>
 
 【OpenAI官方网站】[ChatGPT Blog](https://openai.com/blog/chatgpt/)  
 【ChatGPTPro】[ChatGPTPro](https://chatgpt.pro/)  
@@ -84,11 +77,6 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 </details>
 
 # 资料
-【PDF资料】[ChatGPT-真格基金分享.pdf](PDF/ChatGPT-真格基金分享.pdf)  
-【PDF资料】[腾讯研究院AIGC发展趋势报告2023.pdf](PDF/腾讯研究院AIGC发展趋势报告2023.pdf)  
-【PDF资料】[从CHAT_GPT到生成式AI（Generative AI）：人工智能新范式，重新定义生产力.pdf](PDF/从CHAT_GPT到生成式AI.pdf)  
-<details>
-<summary>CLICK ME(点我查看全部)</summary>
 
 【PDF资料】[ChatGPT-真格基金分享.pdf](PDF/ChatGPT-真格基金分享.pdf)  
 【PDF资料】[腾讯研究院AIGC发展趋势报告2023.pdf](PDF/腾讯研究院AIGC发展趋势报告2023.pdf)  
@@ -101,16 +89,13 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【PDF资料】[从ChatGPT到通用智能新长征上的新变化.pdf](PDF/从ChatGPT到通用智能新长征上的新变化.pdf)  
 【PDF资料】[像ChatGPT这样的工具如何改变你的企业.pdf](PDF/像ChatGPT这样的工具如何改变你的企业.pdf)  
 【PDF资料】[揭秘ChatGPT身后的AIGC技术和它的中国同行们.pdf](PDF/揭秘ChatGPT身后的AIGC技术和它的中国同行们.pdf)  
+【PDF资料】[ChatGPT_Prompts_使用场景.pdf](PDF/ChatGPT/ChatGPT_Prompts_使用场景.pdf)  
+【PDF资料】[ChatGPT过去现在与未来.pdf](PDF/ChatGPT/ChatGPT过去现在与未来.pdf)   
 
 </details>
  
 
 # 技术解读
-【技术解读】[huggingface解读 Illustrating Reinforcement Learning from Human Feedback (RLHF) ](https://huggingface.co/blog/rlhf)  
-【技术解读】[ChatGPT发展历程、原理、技术架构详解和产业未来 （收录于先进AI技术深度解读）](https://zhuanlan.zhihu.com/p/590655677)  
-【技术解读】[ChatGPT内核：InstructGPT，基于反馈指令的PPO强化学习](https://zhuanlan.zhihu.com/p/589747432)  
-<details>
-<summary>CLICK ME(点我查看全部)</summary>
 
 【技术解读】[huggingface解读 Illustrating Reinforcement Learning from Human Feedback (RLHF) ](https://huggingface.co/blog/rlhf)  
 【技术解读】[ChatGPT发展历程、原理、技术架构详解和产业未来 （收录于先进AI技术深度解读）](https://zhuanlan.zhihu.com/p/590655677)  
@@ -146,6 +131,9 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 </details>
 
 # 中文ChatGPT
+【复旦大学】[资讯｜复旦团队发布国内首个类ChatGPT模型MOSS，邀公众参与内测](https://fddi.fudan.edu.cn/5b/e2/c21257a482274/page.htm)  
+【负担Moss】[https://moss.fastnlp.top/](https://moss.fastnlp.top/)  
+
 <details>
 <summary>CLICK ME(点我查看全部)</summary>
 
@@ -154,10 +142,6 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 </details>
 
 # Github-ChatGPT
-【Github】[在微信上迅速接入 ChatGPT，让它成为你最好的助手！](https://github.com/fuergaosi233/wechat-chatgpt)  
-【Github】[Reverse Engineered ChatGPT API by OpenAI. Extensible for chatbots etc.](https://github.com/acheong08/ChatGPT)  
-<details>
-<summary>CLICK ME(点我查看全部)</summary>
 
 【Github】[在微信上迅速接入 ChatGPT，让它成为你最好的助手！](https://github.com/fuergaosi233/wechat-chatgpt)  
 【Github】[Reverse Engineered ChatGPT API by OpenAI. Extensible for chatbots etc.](https://github.com/acheong08/ChatGPT)  
@@ -206,11 +190,6 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 
 
 # 相关文章
-【张俊林】[ChatGPT会取代搜索引擎吗](https://zhuanlan.zhihu.com/p/589533490)  
-【新智元】[ChatGPT爆火，LeCun心态崩了！称大语言模型是邪路，Meta模型3天惨遭下线](https://mp.weixin.qq.com/s/Q9H-78VyI1tZ_9u1kvF_nA)  
-【知乎问答】[如何评价 OpenAI 的超级对话模型 ChatGPT ？](https://www.zhihu.com/question/570189639)  
-<details>
-<summary>CLICK ME(点我查看全部)</summary>
 
 【知乎问答】[ChatGPT 爆火，谷歌投资其竞品公司，谷歌创始人亲自下场改代码，这场 AI 风暴对巨头们有何冲击？](https://www.zhihu.com/question/582114806)  
 【知乎问答】[ChatGPT 有哪些神奇的使用方式？](https://www.zhihu.com/question/570729170)  
