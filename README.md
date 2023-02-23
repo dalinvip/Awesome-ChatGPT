@@ -132,7 +132,8 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 
 # 中文ChatGPT
 【复旦大学】[资讯｜复旦团队发布国内首个类ChatGPT模型MOSS，邀公众参与内测](https://fddi.fudan.edu.cn/5b/e2/c21257a482274/page.htm)  
-【负担Moss】[https://moss.fastnlp.top/](https://moss.fastnlp.top/)  
+【复旦Moss】[https://moss.fastnlp.top/](https://moss.fastnlp.top/)  
+【复旦Moss Github】[https://github.com/txsun1997/MOSS](https://github.com/txsun1997/MOSS)  
 
 <details>
 <summary>CLICK ME(点我查看全部)</summary>
