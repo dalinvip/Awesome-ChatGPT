@@ -215,7 +215,9 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【谷歌CEO】[An important next step on our AI journey](https://blog.google/technology/ai/bard-google-ai-search-updates/)  
 【知乎问答】[OpenAI 的 ChatGPT 会怎样影响国内的 NLP 研究？](https://www.zhihu.com/question/571460238)  
 【量子位】[ChatGPT偷家：Stack Overflow正被程序员抛弃，访问量一个月骤降3200W](https://zhuanlan.zhihu.com/p/602818608)  
-【ChatGPT之父】[ 对话ChatGPT之父！AI会改变什么？不会改变什么](https://mp.weixin.qq.com/s/B5Aku-r4jQYVfO89jxu_Xg)
+【ChatGPT之父】[ 对话ChatGPT之父！AI会改变什么？不会改变什么](https://mp.weixin.qq.com/s/B5Aku-r4jQYVfO89jxu_Xg)  
+【知乎问答】[ChatGPT 最容易取代的是哪些领域？](https://www.zhihu.com/question/582498339/answer/2918852536)  
+
 
 </details>
 
