@@ -151,6 +151,12 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【Github】[几步即可获得一个基于 ChatGPT 的微信机器人](https://github.com/AutumnWhj/ChatGPT-wechat-bot)  
 【Github】[ChatGPT for Google](https://github.com/wong2/chatgpt-google-extension)    
 【Github】[Curated list of resources for ChatGPT and GPT-3 from OpenAI](https://github.com/humanloop/awesome-chatgpt)  
+【Github】[OpenAI ChatGPT 的逆向工程SDK。直接使用网页最新ChatGPT。](https://github.com/PlexPt/chatgpt-java)  
+【Github】[ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.](https://github.com/skydoves/chatgpt-android)  
+【Github】[ChatGPT Extension for VSCode](https://github.com/mpociot/chatgpt-vscode)  
+【Github】[ChatGPT Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop)  
+【Github】[PyChatGPT](https://github.com/rawandahmad698/PyChatGPT)  
+【Github】[OpenAI Teams Bot app](https://github.com/formulahendry/openai-teams-bot)  
 
 </details>
 
