@@ -13,7 +13,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【1】ChatGPT技术交流群，新开的②群，群满加我微信拉你一起交流学习(备注github-ChatGPT)  
 【2】注册ChatGPT账号麻烦的可以私信我取账号  
 
-<img src="pic/ChatGPT_Group2.jpeg" width="23%" height="23%" /> <img src="https://user-images.githubusercontent.com/22359268/217158680-6ba21afc-ae46-4867-8091-c86b3f57e630.png" width="20%" height="20%" /> 
+<img src="pic/ChatGPT_Group2.jpeg" width="23%" height="23%" /> <img src="https://user-images.githubusercontent.com/22359268/217158680-6ba21afc-ae46-4867-8091-c86b3f57e630.png" width="20%" height="20%" /> <img src="pic/紧跟ChatGPT.png" width="23%" height="23%" />  
 
 # 推荐项目
 ## AI商业化(过后删)
