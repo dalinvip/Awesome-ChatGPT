@@ -14,7 +14,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【2】注册ChatGPT账号麻烦的可以私信我取账号  
 【3】更多有价值的内容在ChatGPT星球，目前处于试运营阶段，最多可进50人，可私信大林领取38米优惠券  
 
-<img src="pic/ChatGPT_Group2.jpeg" width="23%" height="23%" /> <img src="https://user-images.githubusercontent.com/22359268/217158680-6ba21afc-ae46-4867-8091-c86b3f57e630.png" width="20%" height="20%" /> <img src="pic/紧跟优惠卷.jpeg" width="23%" height="23%" />  
+<img src="pic/ChatGPT_Group2.jpeg" width="23%" height="23%" /> <img src="https://user-images.githubusercontent.com/22359268/217158680-6ba21afc-ae46-4867-8091-c86b3f57e630.png" width="20%" height="20%" /> <img src="pic/紧跟ChatGPT星球.jpeg" width="23%" height="23%" /> <img src="pic/紧跟优惠卷.jpeg" width="23%" height="23%" />  
 
 # 推荐项目
 ## AI商业化(过后删)
