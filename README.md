@@ -12,7 +12,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 # 交流共享
 【1】ChatGPT技术交流群，新开的③群，群满加我微信拉你一起交流学习(备注github-ChatGPT)  
 【2】注册ChatGPT账号麻烦的可以私信我取账号  
-【3】更多有价值的内容在ChatGPT星球，目前处于试运营阶段，最多可进50人，可私信大林领取38米优惠券  
+【3】更多有价值的内容在ChatGPT星球，目前处于试运营阶段，最多可进50人，可私信大林领取优惠券  
 
 <img src="pic/Chat3.jpeg" width="23%" height="23%" /> <img src="https://user-images.githubusercontent.com/22359268/217158680-6ba21afc-ae46-4867-8091-c86b3f57e630.png" width="20%" height="20%" /> <img src="pic/紧跟ChatGPT星球.jpeg" width="23%" height="23%" /> <img src="pic/紧跟优惠卷.jpeg" width="23%" height="23%" />  
 
