@@ -3,21 +3,23 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Stars](https://img.shields.io/github/stars/dalinvip/Awesome-ChatGPT)](https://github.com/dalinvip/Awesome-ChatGPT) [![Issues](https://img.shields.io/github/issues/dalinvip/Awesome-ChatGPT)](https://github.com/dalinvip/Awesome-ChatGPT/issues)
 
 ChatGPT资料汇总学习，持续更新......  
-ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程上的里程碑事件，还是噱头炒作，持续关注，让时间流淌~
+ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程上的里程碑事件，还是噱头炒作，持续关注，让时间流淌~  
+
+![ChatGPT](./pic/chatgpt-head.png)
 
 <div align=center>
 <img src="pic/chatgpt-3.jpg" width="50%" height="50%" div align=center />
 <img src="pic/chatgpt-2.jpg" width="30%" height="30%" div align=center />
 </div>   
 
-# 交流共享
+## 交流共享
 【1】ChatGPT技术交流群，新开的③群，群满加我微信拉你一起交流学习(备注github-ChatGPT)  
 【2】注册ChatGPT账号麻烦的可以私信我取账号  
 【3】更多有价值的内容在ChatGPT星球，目前处于试运营阶段，最多可进50人，可私信大林领取优惠券  
 
 <img src="pic/Chat3.jpeg" width="23%" height="23%" /> <img src="https://user-images.githubusercontent.com/22359268/217158680-6ba21afc-ae46-4867-8091-c86b3f57e630.png" width="20%" height="20%" /> <img src="pic/紧跟ChatGPT星球.jpeg" width="23%" height="23%" /> <img src="pic/紧跟优惠卷28.jpeg" width="23%" height="23%" />  
 
-# 推荐项目
+## 推荐项目
 ## AI商业化(过后删)
 推荐一个AI商业解析项目，截止目前，已更新24篇文章，订阅者2000+，不是免费🆓的，需要一顿饭钱,之前价格22，现在价格36，内容持续更新,价格持续上涨......
 研究主题是“AI商业变现项目”，国外的AI应用层项目已经看到近千款，有文本(辅助写作、营销文案、品牌介绍文案)、图片(头像、商务图像、人像精修)、音频(催眠类的、播客)、视频(AI视频)等等。国内AI应用层项目很少，所以我会挑出来体验过的AI商业项目写总结、分析到本专栏。如果你对AI商业变现项目感兴趣，需要持续有案例启发可以订阅;
@@ -32,7 +34,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 <img src="pic/Midjourney进阶创意库.jpg" width="30%" height="30%" /> 
 -->
 
-# GPT-4
+## GPT-4
 【GPT-4】[GPT-4震撼发布：多模态大模型，直接升级ChatGPT、必应，开放API，游戏终结了？](https://mp.weixin.qq.com/s/kA7FBZsT6SIvwIkRwFS-xw)  
 【GPT-4】[GPT4震撼发布！哈佛教授：程序员职业3年内将被终结](https://mp.weixin.qq.com/s/c0KR3Jv_1Y3216N7SlOO3Q)  
 【真格测试】[GPT3.5-GPT4-百度文心一言，差距还是蛮大的](https://docs.qq.com/sheet/DTEFsdkNERVVtR3BX)  
@@ -41,7 +43,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【PDF资料】[GPT-4-技术报告-中文.pdf](GPT4相关/GPT-4技术报告.pdf)  
 【PDF资料】[GPT-4 Technical Report.pdf](GPT4相关/gpt-4.pdf)  
 
-# 百度-文心一言
+## 百度-文心一言
 【文心一言】[文心一言，期待与你相见](https://mp.weixin.qq.com/s/tUGwuNQi9UjSPVyeEGVEsQ)  
 【PDF资料】[华泰证券：文心一言：技术与能力拆解.pdf](百度-文心/华泰证券：文心一言：技术与能力拆解.pdf)  
 【PDF资料】[华西证券：百度文心一言畅想.pdf](百度-文心/华西证券：百度文心一言畅想.pdf)  
@@ -51,7 +53,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【PDF资料】[文心一言测试指引.pdf](百度-文心/文心一言测试指引.pdf)  
 
 
-# 新闻时讯
+## 新闻时讯
 
 【时讯】[Google发布Bard与ChatGPT竞争](https://hub.baai.ac.cn/view/23925)  
 【时讯】[重磅，微软发布 ChatGPT 版搜索引擎，用上了比 ChatGPT 更强大的技术](https://www.36kr.com/p/2122399289378949)  
@@ -68,7 +70,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 </details>
 
 
-# 论文
+## 论文
 
 【OpenAI官方网站】[ChatGPT Blog](https://openai.com/blog/chatgpt/)  
 【ChatGPTPro】[ChatGPTPro](https://chatgpt.pro/)  
@@ -87,7 +89,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 
 </details>
 
-# 三方代码实现
+## 三方代码实现
 【代码实现】 **ColossalAI** [hpcaitech/ColossalAI/ChatGPT](https://github.com/hpcaitech/ColossalAI/tree/main/applications/ChatGPT) , :+1: 如何使用可参考:[博客介绍](https://www.hpc-ai.tech/blog/colossal-ai-chatgpt)
 
 <details>
@@ -99,7 +101,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 </details>
 
 
-# 资料
+## 资料
 
 【PDF资料】[ChatGPT-真格基金分享.pdf](PDF/ChatGPT-真格基金分享.pdf)  
 【PDF资料】[腾讯研究院AIGC发展趋势报告2023.pdf](PDF/腾讯研究院AIGC发展趋势报告2023.pdf)  
@@ -118,7 +120,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 </details>
  
 
-# 技术解读
+## 技术解读
 
 【技术解读】[huggingface解读 Illustrating Reinforcement Learning from Human Feedback (RLHF) ](https://huggingface.co/blog/rlhf)  
 【技术解读】[ChatGPT发展历程、原理、技术架构详解和产业未来 （收录于先进AI技术深度解读）](https://zhuanlan.zhihu.com/p/590655677)  
@@ -139,7 +141,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 </details>
 
 
-# 视频讲解
+## 视频讲解
 【李宏毅】[ChatGPT (可能)是怎麼煉成的 - GPT 社會化的過程](https://www.bilibili.com/video/BV1U84y167i3?p=1&vd_source=71b548de6de953e10b96b6547ada83f2)   
 【陈縕侬】[深度學習之應用 | ADL 17.3: OpenAI ChatGPT 驚驗眾人的對話互動式AI](https://www.bilibili.com/video/BV1U84y167i3?p=3&vd_source=71b548de6de953e10b96b6547ada83f2)  
 【李沐】[InstructGPT 论文精读【论文精读·48】](https://www.bilibili.com/video/BV1hd4y187CR/?spm_id_from=333.788&vd_source=71b548de6de953e10b96b6547ada83f2)
@@ -154,7 +156,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 
 </details>
 
-# 中文ChatGPT
+## 中文ChatGPT
 【复旦大学】[资讯｜复旦团队发布国内首个类ChatGPT模型MOSS，邀公众参与内测](https://fddi.fudan.edu.cn/5b/e2/c21257a482274/page.htm)  
 【复旦Moss】[https://moss.fastnlp.top/](https://moss.fastnlp.top/)  
 【复旦Moss Github】[https://github.com/txsun1997/MOSS](https://github.com/txsun1997/MOSS)  
@@ -166,7 +168,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 
 </details>
 
-# Github-ChatGPT
+## Github-ChatGPT
 
 【Github】[在微信上迅速接入 ChatGPT，让它成为你最好的助手！](https://github.com/fuergaosi233/wechat-chatgpt)  
 【Github】[Reverse Engineered ChatGPT API by OpenAI. Extensible for chatbots etc.](https://github.com/acheong08/ChatGPT)  
@@ -186,7 +188,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 
 </details>
 
-# Github-ChatGPT-周边
+## Github-ChatGPT-周边
 【ChatRWKV】[ChatRWKV is like ChatGPT but powered by my RWKV language model](https://github.com/BlinkDL/ChatRWKV)  
 <details>
 <summary>CLICK ME(点我查看全部)</summary>
@@ -195,7 +197,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 
 </details>
 
-# Github-GPT系列
+## Github-GPT系列
 【GPT系列项目】[GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese)  
 <details>
 <summary>CLICK ME(点我查看全部)</summary>
@@ -205,7 +207,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 </details>
 
 
-# 实践
+## 实践
 【实践】[量子位-ChatGPT能接入微信了！](https://zhuanlan.zhihu.com/p/590505058)  
 【实践】[在国内，如何玩一下chatgpt？](https://www.zhihu.com/question/570939438)  
 【小白注册教程】[ChatGPT 怎么用最新详细教程-新手小白一看就会](https://www.cnblogs.com/chat-gpt/p/how-to-use-chatgpt-in-china.html) 
@@ -220,7 +222,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 </details>
 
 
-# 相关文章
+## 相关文章
 
 【知乎问答】[ChatGPT 爆火，谷歌投资其竞品公司，谷歌创始人亲自下场改代码，这场 AI 风暴对巨头们有何冲击？](https://www.zhihu.com/question/582114806)  
 【知乎问答】[ChatGPT 有哪些神奇的使用方式？](https://www.zhihu.com/question/570729170)  
@@ -248,24 +250,24 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 </details>
 
 
-# 欢迎共建
+## 欢迎共建
 【👬🏻】、欢迎👏🏻 Star ⭐️⭐️⭐️⭐️⭐️ && 提交 Pull requests 👏🏻👏🏻👏🏻  
 
-# 推荐科学🪜
+## 推荐科学🪜
 【🪜】[推荐这个，稳定便宜，节点多，速度快，支持MacOS、Windows、安卓、IOS，配置方便](https://sockboom.bar/auth/register?affid=610243)  
 
 
-# 交流共享
+## 交流共享
 群满加我微信(备注github-ChatGPT), 行路难，感谢老板随意赏~  
 
 <img src="https://user-images.githubusercontent.com/22359268/217158680-6ba21afc-ae46-4867-8091-c86b3f57e630.png" width="25%" height="25%" /> <img src="pic/dalinvip打赏.jpeg" width="30%" height="30%" />   
 
 
-# 关于我
+## 关于我
 大林，NLP/知识图谱算法工程师  
 v: dalinvip2023
 
-## Star History
+### Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=dalinvip/Awesome-ChatGPT&type=Timeline)](https://star-history.com/#dalinvip/Awesome-ChatGPT&Timeline)
 
