@@ -39,6 +39,16 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【PDF资料】[GPT-4-技术报告-中文.pdf](GPT4相关/GPT-4技术报告.pdf)  
 【PDF资料】[GPT-4 Technical Report.pdf](GPT4相关/gpt-4.pdf)  
 
+# 百度-文心一言
+【文心一言】[文心一言，期待与你相见](https://mp.weixin.qq.com/s/tUGwuNQi9UjSPVyeEGVEsQ)  
+【PDF资料】[华泰证券：文心一言：技术与能力拆解.pdf](百度-文心/华泰证券：文心一言：技术与能力拆解.pdf)  
+【PDF资料】[华西证券：百度文心一言畅想.pdf](百度-文心/华西证券：百度文心一言畅想.pdf)  
+【PDF资料】[开源证券：百度文心一言展望.pdf](百度-文心/开源证券：百度文心一言展望.pdf)  
+【PDF资料】[首创证券：文心一言”接入生态伙伴，AIGC 关注度持续.pdf](百度-文心/首创证券：文心一言”接入生态伙伴，AIGC 关注度持续.pdf)  
+【PDF资料】[ChatGPT系列—百度文心一言解读20230315.pdf](百度-文心/ChatGPT系列—百度文心一言解读20230315.pdf)  
+【PDF资料】[文心一言测试指引.pdf](百度-文心/文心一言测试指引.pdf)  
+
+
 # 新闻时讯
 
 【时讯】[Google发布Bard与ChatGPT竞争](https://hub.baai.ac.cn/view/23925)  
@@ -51,6 +61,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【复旦大学】[资讯｜复旦团队发布国内首个类ChatGPT模型MOSS，邀公众参与内测](https://fddi.fudan.edu.cn/5b/e2/c21257a482274/page.htm)  
 【李开复】[李开复最新万字演讲：AI 2.0是绝对不能错过的一次革命](https://mp.weixin.qq.com/s/ddGbZd78BEd65L7599V3Cw)  
 【微软】[昨夜，微软甩出Office王炸！又是AI神器，拯救打工人](https://mp.weixin.qq.com/s/DpBo4p9yhlRcERzcbyBQBg)  
+【任正非】[任正非最新谈中美、科技、ChatGPT](https://mp.weixin.qq.com/s/7Njd3TYE8PNiKd2M37eGuw)  
 
 </details>
 
