@@ -34,6 +34,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 # GPT-4
 【GPT-4】[GPT-4震撼发布：多模态大模型，直接升级ChatGPT、必应，开放API，游戏终结了？](https://mp.weixin.qq.com/s/kA7FBZsT6SIvwIkRwFS-xw)  
 【GPT-4】[GPT4震撼发布！哈佛教授：程序员职业3年内将被终结](https://mp.weixin.qq.com/s/c0KR3Jv_1Y3216N7SlOO3Q)  
+【真格测试】[GPT3.5-GPT4-百度文心一言，差距还是蛮大的](https://docs.qq.com/sheet/DTEFsdkNERVVtR3BX)  
 【PDF资料】[OpenAI发布GPT-4,大模型的发展进入新的里程碑.pdf](GPT4相关/OpenAI发布GPT-4，大模型的发展进入新的里程碑.pdf)  
 【PDF资料】[GPT-4-震撼发布,AI算法之巅.pdf](GPT4相关/GPT-4震撼发布-AI算法之巅.pdf)  
 【PDF资料】[GPT-4-技术报告-中文.pdf](GPT4相关/GPT-4技术报告.pdf)  
