@@ -31,6 +31,14 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 <img src="pic/Midjourney进阶创意库.jpg" width="30%" height="30%" /> 
 -->
 
+# GPT-4
+【GPT-4】[GPT-4震撼发布：多模态大模型，直接升级ChatGPT、必应，开放API，游戏终结了？](https://mp.weixin.qq.com/s/kA7FBZsT6SIvwIkRwFS-xw)  
+【GPT-4】[GPT4震撼发布！哈佛教授：程序员职业3年内将被终结](https://mp.weixin.qq.com/s/c0KR3Jv_1Y3216N7SlOO3Q)  
+【PDF资料】[OpenAI发布GPT-4，大模型的发展进入新的里程碑.pdf](GPT4相关/OpenAI发布GPT-4，大模型的发展进入新的里程碑.pdf)  
+【PDF资料】[GPT-4-震撼发布, AI算法之巅.pdf](GPT4相关/GPT-4 震撼发布, AI 算法之巅.pdf)  
+【PDF资料】[GPT-4-技术报告-中文.pdf](GPT4相关/GPT-4 技术报告.pdf)  
+【PDF资料】[GPT-4 Technical Report.pdf](GPT4相关/gpt-4.pdf)  
+
 # 新闻时讯
 
 【时讯】[Google发布Bard与ChatGPT竞争](https://hub.baai.ac.cn/view/23925)  
@@ -41,6 +49,8 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【CCTV4】[ChatGPT狂飙！科技巨头纷纷布局](https://mp.weixin.qq.com/s/DGyOK2L-zOhODtWvf-wn-A)  
 【机器之心】[微软ChatGPT版必应被黑掉了，全部Prompt泄露](https://mp.weixin.qq.com/s/89KeLjDoS9IyArIr8z6jjg)  
 【复旦大学】[资讯｜复旦团队发布国内首个类ChatGPT模型MOSS，邀公众参与内测](https://fddi.fudan.edu.cn/5b/e2/c21257a482274/page.htm)  
+【李开复】[李开复最新万字演讲：AI 2.0是绝对不能错过的一次革命](https://mp.weixin.qq.com/s/ddGbZd78BEd65L7599V3Cw)  
+【微软】[昨夜，微软甩出Office王炸！又是AI神器，拯救打工人](https://mp.weixin.qq.com/s/DpBo4p9yhlRcERzcbyBQBg)  
 
 </details>
 
@@ -74,6 +84,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 
 
 </details>
+
 
 # 资料
 
@@ -110,6 +121,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【技术解读】[拆解追溯 GPT-3.5 各项能力的起源](https://yaofu.notion.site/GPT-3-5-360081d91ec245f29029d37b54573756)  
 【技术解读】[ChatGPT出来后，我们是否真的面临范式转变?](https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A)  
 【技术解读】[腾讯技术工程|万字长文教你如何做出 ChatGPT](https://mp.weixin.qq.com/s/8IFcQDhsLIWJIx8siF-wdQ)  
+【腾讯】[关于ChatGPT的五个最重要问题](https://mp.weixin.qq.com/s/ACMAeGi0LPRWt2B8VrIojQ)
 
 </details>
 
