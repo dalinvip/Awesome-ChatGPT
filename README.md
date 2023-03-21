@@ -14,13 +14,17 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 
 ## 交流共享
 
-【1】欢迎👏🏻👏🏻👏🏻加入ChatGP交流群，与AI领域专家和各行各业的ChatGPT爱好者一起交流碰撞💥💥💥！不管你是专业人士还是爱好者，都欢迎加入我们的群体！  
+【1】欢迎👏🏻👏🏻👏🏻加入ChatGP交流群，与AI领域专家和各行各业的ChatGPT爱好者一起交流碰撞💥💥💥！不管你是专业人士还是爱好者，都欢迎加入我们的群体！目前1/2群都满500人，3群需要邀请进入  
 【2】创建付费知识星球，目前处于【试运营】阶段，已有很多朋友加入，试运营过后拉「ChatGPT星球vip社群」、分享实时信息、技术实践、项目落地等。  
 【3】帮朋友推荐一个AI商业解析项目，截止目前，已更新40篇文章，订阅者3000+，不是免费🆓的，需要一顿饭钱,之前价格22，现在价格36，内容持续更新,价格持续上涨......  
 
-|  二维码加群   | 拉你入群(备注ChaGPT-github)  | 加入星球(更多优质内容) | 星球限时优惠卷 | AI商业解析项目 |
-|  ----  | ----  | ----  | ----  | ----  |
-| <img src="pic/Chat3.jpeg" width="300" />  | <img src="https://user-images.githubusercontent.com/22359268/217158680-6ba21afc-ae46-4867-8091-c86b3f57e630.png" width="200"/> | <img src="pic/紧跟ChatGPT星球.jpeg" width="300" /> | <img src="pic/紧跟优惠卷28.jpeg" width="300" /> | <img src="pic/AI商业化2.png" width="300" /> | 
+|  二维码加群   | 拉你入群(备注ChaGPT-github)  |
+|  ----  | ----  |
+| <img src="pic/ChatGPT-4.jpeg" width="200" />  | <img src="https://user-images.githubusercontent.com/22359268/217158680-6ba21afc-ae46-4867-8091-c86b3f57e630.png" width="200"/> |
+
+| 加入星球(更多优质内容) | 星球限时优惠卷 | AI商业解析项目 |
+| ----  | ----  | ----  |
+| <img src="pic/紧跟ChatGPT星球.jpeg" width="200" /> | <img src="pic/紧跟优惠卷28.jpeg" width="200" /> | <img src="pic/AI商业化2.png" width="200" /> | 
 
 
 <!--
