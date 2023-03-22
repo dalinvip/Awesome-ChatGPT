@@ -270,7 +270,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【👬🏻】、欢迎👏🏻 Star ⭐️⭐️⭐️⭐️⭐️ && 提交 Pull requests 👏🏻👏🏻👏🏻  
 
 ## 推荐科学🪜
-【🪜】[推荐这个，稳定便宜，节点多，速度快，支持MacOS、Windows、安卓、IOS，配置方便](https://sockboom.bar/auth/register?affid=610243)  
+【🪜】[推荐这个，稳定便宜，节点多，速度快，支持MacOS、Windows、安卓、IOS，配置方便](https://sockboom.shop/auth/register?affid=610243)  
 
 
 ## 交流共享
