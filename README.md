@@ -24,7 +24,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 
 | 加入星球(更多优质内容) | 星球限时优惠卷 | AI商业解析项目 |
 | ----  | ----  | ----  |
-| <img src="pic/紧跟ChatGPT星球.jpeg" width="200" /> | <img src="pic/星球优惠券28new.png" width="200" /> | <img src="pic/AI商业化2.png" width="200" /> | 
+| <img src="pic/紧跟ChatGPT星球.jpeg" width="200" /> | <img src="pic/星球优惠券28-last.png" width="200" /> | <img src="pic/AI商业化2.png" width="200" /> | 
 
 
 <!--
