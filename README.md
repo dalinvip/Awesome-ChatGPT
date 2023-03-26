@@ -12,10 +12,6 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 <img src="pic/chatgpt-2.jpg" width="30%" height="30%" div align=center />
 </div>   
 
-## 飞书文档
-
-飞书文档【『紧跟ChatGPT风向』持续更新中】，包含ChatGPT、百度文心一言、微软New Bing、谷歌-Nard、AI绘画等相关基础问题和资料学习，文档地址：https://szqxz4m7fs.feishu.cn/docx/UhuedqlJVo7rl9xOKfuchSQqn4g  
-
 
 ## 交流共享
 
@@ -31,6 +27,10 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 | ----  | ----  | ----  |
 | <img src="pic/紧跟ChatGPT星球.jpeg" width="200" /> | <img src="pic/星球优惠券28-last.png" width="200" /> | <img src="pic/AI商业化2.png" width="200" /> | 
 
+
+## 飞书文档
+
+飞书文档【『紧跟ChatGPT风向』持续更新中】，包含ChatGPT、百度文心一言、微软New Bing、谷歌-Nard、AI绘画等相关基础问题和资料学习，文档地址：https://szqxz4m7fs.feishu.cn/docx/UhuedqlJVo7rl9xOKfuchSQqn4g  
 
 <!--
 
