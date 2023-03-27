@@ -137,6 +137,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【PDF资料】[揭秘ChatGPT身后的AIGC技术和它的中国同行们.pdf](PDF/揭秘ChatGPT身后的AIGC技术和它的中国同行们.pdf)  
 【PDF资料】[ChatGPT_Prompts_使用场景.pdf](PDF/ChatGPT/ChatGPT_Prompts_使用场景.pdf)  
 【PDF资料】[ChatGPT过去现在与未来.pdf](PDF/ChatGPT/ChatGPT过去现在与未来.pdf)   
+【PDF资料】[ChatGPT作为回答复杂问题的问答系统的评价](https://arxiv.org/abs/2303.07992)
 
 </details>
  
