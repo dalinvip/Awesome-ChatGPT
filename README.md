@@ -19,13 +19,9 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【2】创建付费知识星球，目前处于已正式运营，已有100+朋友加入，星球有「星球专属vip社群」、分享实时信息、技术实践、项目落地、商业变现等。  
 【3】帮朋友推荐一个AI商业解析项目，截止目前，已更新40篇文章，订阅者3000+，不是免费🆓的，需要一顿饭钱,之前价格22，现在价格36，内容持续更新,价格持续上涨......  
 
-|  二维码加群   | 拉你入群(备注ChaGPT-github)  |
-|  ----  | ----  |
-| <img src="pic/ChatGPT5.jpeg" width="200" />  | <img src="https://user-images.githubusercontent.com/22359268/217158680-6ba21afc-ae46-4867-8091-c86b3f57e630.png" width="200"/> |
-
-| 加入星球(更多优质内容) | 星球限时优惠卷 | AI商业解析项目 |
-| ----  | ----  | ----  |
-| <img src="pic/星球最新2.jpeg" width="200" /> | <img src="pic/星球优惠券28-last.png" width="200" /> | <img src="pic/AI商业化2.png" width="200" /> | 
+|  二维码加群   | 拉你入群(备注ChaGPT-github)  | 加入星球(更多优质内容) | AI商业解析项目 |
+|  ----  | ----  | ----  | ----  |
+| <img src="pic/ChatGPT5.jpeg" width="200" />  | <img src="pic/dalinvip.jpeg" width="200"/> | <img src="pic/星球最新2.jpeg" width="200" /> | <img src="pic/AI商业化2.png" width="200" /> | 
 
 
 ## 飞书文档
