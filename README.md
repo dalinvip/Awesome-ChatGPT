@@ -109,14 +109,6 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 ## 三方代码实现
 【代码实现】 **ColossalAI** [hpcaitech/ColossalAI/ChatGPT](https://github.com/hpcaitech/ColossalAI/tree/main/applications/ChatGPT) , :+1: 如何使用可参考:[博客介绍](https://www.hpc-ai.tech/blog/colossal-ai-chatgpt)
 
-<details>
-<summary>CLICK ME(点我查看全部)</summary>
-
-【代码实现】 **ColossalAI** [hpcaitech/ColossalAI/ChatGPT](https://github.com/hpcaitech/ColossalAI/tree/main/applications/ChatGPT) , :+1: 如何使用可参考:[博客介绍](https://www.hpc-ai.tech/blog/colossal-ai-chatgpt)
-
-
-</details>
-
 
 ## 资料
 
@@ -161,29 +153,14 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 ## 视频讲解
 【李宏毅】[ChatGPT (可能)是怎麼煉成的 - GPT 社會化的過程](https://www.bilibili.com/video/BV1U84y167i3?p=1&vd_source=71b548de6de953e10b96b6547ada83f2)   
 【陈縕侬】[深度學習之應用 | ADL 17.3: OpenAI ChatGPT 驚驗眾人的對話互動式AI](https://www.bilibili.com/video/BV1U84y167i3?p=3&vd_source=71b548de6de953e10b96b6547ada83f2)  
-【李沐】[InstructGPT 论文精读【论文精读·48】](https://www.bilibili.com/video/BV1hd4y187CR/?spm_id_from=333.788&vd_source=71b548de6de953e10b96b6547ada83f2)
-<details>
-<summary>CLICK ME(点我查看全部)</summary>
-
-【李宏毅】[ChatGPT (可能)是怎麼煉成的 - GPT 社會化的過程](https://www.bilibili.com/video/BV1U84y167i3?p=1&vd_source=71b548de6de953e10b96b6547ada83f2)   
-【陈縕侬】[深度學習之應用 | ADL 17.3: OpenAI ChatGPT 驚驗眾人的對話互動式AI](https://www.bilibili.com/video/BV1U84y167i3?p=3&vd_source=71b548de6de953e10b96b6547ada83f2)  
 【李沐】[InstructGPT 论文精读【论文精读·48】](https://www.bilibili.com/video/BV1hd4y187CR/?spm_id_from=333.788&vd_source=71b548de6de953e10b96b6547ada83f2)  
 【油管】[chatgpt基本工作原理简单清晰介绍](https://www.youtube.com/watch?v=e0aKI2GGZNg&t=24s)  
-
-
-</details>
 
 ## 中文ChatGPT
 【复旦大学】[资讯｜复旦团队发布国内首个类ChatGPT模型MOSS，邀公众参与内测](https://fddi.fudan.edu.cn/5b/e2/c21257a482274/page.htm)  
 【复旦Moss】[https://moss.fastnlp.top/](https://moss.fastnlp.top/)  
 【复旦Moss Github】[https://github.com/txsun1997/MOSS](https://github.com/txsun1997/MOSS)  
 
-<details>
-<summary>CLICK ME(点我查看全部)</summary>
-
-【期待】
-
-</details>
 
 ## Github-ChatGPT
 
@@ -207,36 +184,17 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 
 ## Github-ChatGPT-周边
 【ChatRWKV】[ChatRWKV is like ChatGPT but powered by my RWKV language model](https://github.com/BlinkDL/ChatRWKV)  
-<details>
-<summary>CLICK ME(点我查看全部)</summary>
-
-【ChatRWKV】[ChatRWKV is like ChatGPT but powered by my RWKV language model](https://github.com/BlinkDL/ChatRWKV)  
-
-</details>
 
 ## Github-GPT系列
 【GPT系列项目】[GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese)  
-<details>
-<summary>CLICK ME(点我查看全部)</summary>
-
-【GPT系列项目】[GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese)  
-
-</details>
 
 
 ## 实践
-【实践】[量子位-ChatGPT能接入微信了！](https://zhuanlan.zhihu.com/p/590505058)  
-【实践】[在国内，如何玩一下chatgpt？](https://www.zhihu.com/question/570939438)  
-【小白注册教程】[ChatGPT 怎么用最新详细教程-新手小白一看就会](https://www.cnblogs.com/chat-gpt/p/how-to-use-chatgpt-in-china.html) 
-<details>
-<summary>CLICK ME(点我查看全部)</summary>
 
 【实践】[量子位-ChatGPT能接入微信了！](https://zhuanlan.zhihu.com/p/590505058)  
 【实践】[在国内，如何玩一下chatgpt？](https://www.zhihu.com/question/570939438)  
 【小白注册教程】[ChatGPT 怎么用最新详细教程-新手小白一看就会](https://www.cnblogs.com/chat-gpt/p/how-to-use-chatgpt-in-china.html)  
-【飞书】[飞书接入ChatGPT教程](https://github.com/bestony/ChatGPT-Feishu)  
-
-</details>
+【飞书】[飞书接入ChatGPT教程](https://github.com/bestony/ChatGPT-Feishu) 
 
 
 ## 相关文章
@@ -263,8 +221,6 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【ChatGPT之父】[ 对话ChatGPT之父！AI会改变什么？不会改变什么](https://mp.weixin.qq.com/s/B5Aku-r4jQYVfO89jxu_Xg)  
 【知乎问答】[ChatGPT 最容易取代的是哪些领域？](https://www.zhihu.com/question/582498339/answer/2918852536)  
 
-
-</details>
 
 
 ## 欢迎共建
