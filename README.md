@@ -26,7 +26,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 
 ## 飞书文档
 
-飞书文档【『紧跟ChatGPT风向』持续更新中】，包含ChatGPT、百度文心一言、微软New Bing、谷歌-Nard、AI绘画等相关基础问题和资料学习，文档地址：https://szqxz4m7fs.feishu.cn/docx/UhuedqlJVo7rl9xOKfuchSQqn4g  
+飞书文档【『紧跟ChatGPT风向』持续更新中】，包含ChatGPT、百度文心一言、微软 New Bing、谷歌-Bard、AI绘画等相关基础问题和资料学习，文档地址：https://szqxz4m7fs.feishu.cn/docx/UhuedqlJVo7rl9xOKfuchSQqn4g  
 
 
 ## GPT-4
