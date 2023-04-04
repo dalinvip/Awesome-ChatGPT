@@ -21,7 +21,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 
 |  二维码加群   | 拉你入群(备注ChaGPT-github)  | 加入星球(更多优质内容) | AI商业解析项目 |
 |  ----  | ----  | ----  | ----  |
-| <img src="pic/ChatGPT5.jpeg" width="180" />  | <img src="pic/dalinvip.jpeg" width="180"/> | <img src="pic/星球最新3.jpeg" width="200" /> | <img src="pic/AI商业化2.png" width="200" /> | 
+| <img src="pic/AI5群.jpeg" width="180" />  | <img src="pic/dalinvip.jpeg" width="180"/> | <img src="pic/星球最新3.jpeg" width="200" /> | <img src="pic/AI商业化2.png" width="200" /> | 
 
 
 ## 飞书文档
