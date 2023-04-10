@@ -19,7 +19,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 
 | 拉你入群(备注ChaGPT-github)  | 加入交流社群(25元低门槛社群) |
 | ----  | ----  |
-| <img src="pic/dalinvip.jpeg" width="180"/> | <img src="pic/星球优惠券-2-2.png" width="200" /> | 
+| <img src="pic/dalinvip.jpeg" width="180"/> | <img src="pic/星球优惠券-集结地2.png" width="200" /> | 
 
 
 ## 飞书知识库-🔥 紧跟AIGC风向知识库
