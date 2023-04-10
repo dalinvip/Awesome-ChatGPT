@@ -22,9 +22,17 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 | <img src="pic/dalinvip.jpeg" width="180"/> | <img src="pic/星球优惠券-2-2.png" width="200" /> | 
 
 
-## 飞书文档
-
-飞书文档【『紧跟ChatGPT风向』持续更新中】，包含ChatGPT、百度文心一言、微软 New Bing、谷歌-Bard、AI绘画等相关基础问题和资料学习，文档地址：https://szqxz4m7fs.feishu.cn/docx/UhuedqlJVo7rl9xOKfuchSQqn4g  
+## 飞书知识库-🔥 紧跟AIGC风向知识库
+目前知识库包括以下内容大纲，覆盖内容如下
+- ChatGPT基础知识、注册流程、登录问题解决、相关应用，包括插件、角色扮演Prompt，以及PDF资料
+- 国内大模型相关进展，资料，及其相关内测申请流程，百度、阿里、商汤、360、昆仑万维等
+- 国外谷歌、微软大模型进展、New Bing相关问题
+- 国内可用的一些免费网站(截止目前免费)
+- AI绘画，特别是MJ、SD的资料收录，使用教程，实践分享等等
+- Prompt提示词已经是不可忽略的一部分，必须掌握的一些资料
+- AI高质量文章收录
+- 2000+人交流社群  
+- 地址：https://szqxz4m7fs.feishu.cn/wiki/wikcnMJ5qdVdOJ03XsBZFuXIRkf
 
 
 ## GPT-4
