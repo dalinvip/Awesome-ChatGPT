@@ -12,17 +12,6 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 <img src="pic/chatgpt-2.jpg" width="30%" height="30%" div align=center />
 </div>   
 
-
-## 交流共享
-
-【免费交流群】欢迎👏🏻👏🏻👏🏻加入ChatGP交流群，与AI领域专家和各行各业的ChatGPT爱好者一起交流碰撞💥💥💥！不管你是专业人士还是爱好者，都欢迎加入群体！目前1/2/3/4群都近满500人   
-【低门槛社群】低门槛社群目标1000人，一包烟钱，一顿饭钱，遇见一群能主动分享的大佬，一群能信任的朋友，挺好  
-
-| 拉你入群(备注ChaGPT-github)  | 加入交流社群(25元低门槛社群) |
-| ----  | ----  |
-| <img src="pic/dalinvip.jpeg" width="180"/> | <img src="pic/星球优惠券-集结地2.png" width="200" /> | 
-
-
 ## 飞书知识库-🔥 紧跟AIGC风向知识库
 目前知识库包括以下内容大纲，覆盖内容如下
 - ChatGPT基础知识、注册流程、登录问题解决、相关应用，包括插件、角色扮演Prompt，以及PDF资料
@@ -34,6 +23,16 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 - AI高质量文章收录
 - 2000+人交流社群  
 - 地址：https://szqxz4m7fs.feishu.cn/wiki/wikcnMJ5qdVdOJ03XsBZFuXIRkf
+
+
+## 交流共享
+
+【免费交流群】欢迎👏🏻👏🏻👏🏻加入ChatGP交流群，与AI领域专家和各行各业的ChatGPT爱好者一起交流碰撞💥💥💥！不管你是专业人士还是爱好者，都欢迎加入群体！目前1/2/3/4群都近满500人   
+【低门槛社群】低门槛社群目标1000人，一包烟钱，一顿饭钱，遇见一群能主动分享的大佬，一群能信任的朋友，挺好  
+
+| 拉你入群(备注ChaGPT-github) | 2000+社群 | 低门槛付费社群(微信扫码) |
+| ----  | ----  | ----  |
+| <img src="pic/dalinvip.jpeg" width="180"/> | <img src="pic/AI5.png" width="180"/>  | <img src="pic/星球优惠券-集结地2.png" width="200" /> | 
 
 
 ## GPT-4
