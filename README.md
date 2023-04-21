@@ -32,7 +32,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 
 | 拉你入群(备注ChaGPT-github) | 2000+社群 | 低门槛付费社群(微信扫码) |
 | ----  | ----  | ----  |
-| <img src="pic/dalinvip.jpeg" width="180"/> | <img src="pic/AI6.jpeg" width="180"/>  | <img src="pic/星球优惠券-集结地2.png" width="200" /> | 
+| <img src="pic/dalinvip.jpeg" width="180"/> | <img src="pic/AI6.jpeg" width="180"/>  | <img src="pic/GPTjjijie.png" width="200" /> | 
 
 
 ## GPT-4
