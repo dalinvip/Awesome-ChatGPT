@@ -31,7 +31,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【低门槛社群】低门槛社群目标1000人，遇见一群能主动分享的大佬，一群能信任的朋友，很好，知识库有最后一批优惠券  
 
 | 拉你入群(备注ChaGPT-github) | 低门槛付费社群(微信扫码) |
-| ----  | ----  | ----  |
+| ----  | ----  |
 | <img src="pic/dalinvip.jpeg" width="180"/> | <img src="pic/GPTjjijie.png" width="200" /> | 
 
 
