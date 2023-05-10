@@ -24,7 +24,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 - 2000+人交流社群  
 - 地址：https://szqxz4m7fs.feishu.cn/wiki/wikcnMJ5qdVdOJ03XsBZFuXIRkf
 
-
+<!--
 ## 交流共享
 
 【免费交流群】欢迎👏🏻👏🏻👏🏻加入ChatGP交流群，与AI领域专家和各行各业的ChatGPT爱好者一起交流碰撞💥💥💥！不管你是专业人士还是爱好者，都欢迎加入群体！目前1/2/3/4群都近满500人   
@@ -33,6 +33,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 | 拉你入群(备注ChaGPT-github) | 低门槛付费社群(微信扫码) |
 | ----  | ----  |
 | <img src="pic/dalinvip.jpeg" width="180"/> | <img src="pic/GPTjjijie.png" width="200" /> | 
+-->
 
 
 ## GPT-4
