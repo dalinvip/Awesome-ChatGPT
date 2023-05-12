@@ -26,7 +26,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 
 | 拉你入500人大群(备注ChaGPT-github) | 扫码入群 |
 | ----  | ----  |
-| <img src="pic/dalinvip.jpeg" width="180"/> | <img src="pic/AIGC.png" width="200" /> | 
+| <img src="pic/dalinvip.jpeg" width="180" text-align: center/> | <img src="pic/AIGC.png" width="200" /> | 
 
 <!--
 ## 交流共享
