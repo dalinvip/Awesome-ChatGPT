@@ -175,6 +175,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【Github】[ChatGPT Auto-Continue automatically continues generating multi-message responses](https://github.com/adamlui/chatgpt-auto-continue)  
 【Github】[ChatGPT Infinity generates endless answers to random questions in any language](https://github.com/adamlui/chatgpt-infinity)  
 【Github】[ChatGPT Widescreen adds widescreen + full-window modes](https://github.com/adamlui/chatgpt-widescreen)  
+【Github】[Autoclear ChatGPT History](https://github.com/adamlui/autoclear-chatgpt-history)  
 
 </details>
 
