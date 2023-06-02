@@ -172,6 +172,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【Github】[ChatGPT Auto Refresh keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks](https://github.com/adamlui/chatgpt-auto-refresh)  
 【Github】[DuckDuckGPT adds ChatGPT to DuckDuckGo](https://github.com/kudoai/duckduckgpt)  
 【Github】[BraveGPT adds ChatGPT to Brave Search](https://github.com/kudoai/bravegpt)  
+【Github】[ChatGPT Auto-Continue automatically continues generating multi-message responses](https://github.com/adamlui/chatgpt-auto-continue)  
 
 </details>
 
