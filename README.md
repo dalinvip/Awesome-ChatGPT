@@ -169,6 +169,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【Github】[PyChatGPT](https://github.com/rawandahmad698/PyChatGPT)  
 【Github】[OpenAI Teams Bot app](https://github.com/formulahendry/openai-teams-bot)  
 【Github】[chatgpt.js client-side library](https://github.com/chatgptjs/chatgpt.js)  
+【Github】[ChatGPT Auto Refresh keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks](https://github.com/adamlui/chatgpt-auto-refresh)  
 
 </details>
 
