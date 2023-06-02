@@ -168,6 +168,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【Github】[ChatGPT Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop)  
 【Github】[PyChatGPT](https://github.com/rawandahmad698/PyChatGPT)  
 【Github】[OpenAI Teams Bot app](https://github.com/formulahendry/openai-teams-bot)  
+【Github】[chatgpt.js client-side library](https://github.com/chatgptjs/chatgpt.js)  
 
 </details>
 
