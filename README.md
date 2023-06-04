@@ -148,33 +148,41 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 ## 中文ChatGPT
 【复旦大学】[资讯｜复旦团队发布国内首个类ChatGPT模型MOSS，邀公众参与内测](https://fddi.fudan.edu.cn/5b/e2/c21257a482274/page.htm)  
 【复旦Moss】[https://moss.fastnlp.top/](https://moss.fastnlp.top/)  
-【复旦Moss Github】[https://github.com/txsun1997/MOSS](https://github.com/txsun1997/MOSS)  
+【复旦Moss GitHub】[https://github.com/txsun1997/MOSS](https://github.com/txsun1997/MOSS)  
 
 
-## Github-ChatGPT
+## GitHub-ChatGPT
 
-【Github】[在微信上迅速接入 ChatGPT，让它成为你最好的助手！](https://github.com/fuergaosi233/wechat-chatgpt)  
-【Github】[Reverse Engineered ChatGPT API by OpenAI. Extensible for chatbots etc.](https://github.com/acheong08/ChatGPT)  
+【GitHub】[在微信上迅速接入 ChatGPT，让它成为你最好的助手！](https://github.com/fuergaosi233/wechat-chatgpt)  
+【GitHub】[Reverse Engineered ChatGPT API by OpenAI. Extensible for chatbots etc.](https://github.com/acheong08/ChatGPT)  
 【github】[This is a collection of prompt examples to be used with the ChatGPT model.](https://github.com/f/awesome-chatgpt-prompts)  
-【Github】[ChatGPT Desktop Application (Mac, Windows and Linux)](https://github.com/lencx/ChatGPT)  
-【Github】[ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)  
-【Github】[Node.js client for the unofficial ChatGPT API.](https://github.com/transitive-bullshit/chatgpt-api)  
-【Github】[几步即可获得一个基于 ChatGPT 的微信机器人](https://github.com/AutumnWhj/ChatGPT-wechat-bot)  
-【Github】[ChatGPT for Google](https://github.com/wong2/chatgpt-google-extension)    
-【Github】[Curated list of resources for ChatGPT and GPT-3 from OpenAI](https://github.com/humanloop/awesome-chatgpt)  
-【Github】[OpenAI ChatGPT 的逆向工程SDK。直接使用网页最新ChatGPT。](https://github.com/PlexPt/chatgpt-java)  
-【Github】[ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.](https://github.com/skydoves/chatgpt-android)  
-【Github】[ChatGPT Extension for VSCode](https://github.com/mpociot/chatgpt-vscode)  
-【Github】[ChatGPT Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop)  
-【Github】[PyChatGPT](https://github.com/rawandahmad698/PyChatGPT)  
-【Github】[OpenAI Teams Bot app](https://github.com/formulahendry/openai-teams-bot)  
+【GitHub】[ChatGPT Desktop Application (Mac, Windows and Linux)](https://github.com/lencx/ChatGPT)  
+【GitHub】[ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)  
+【GitHub】[Node.js client for the unofficial ChatGPT API.](https://github.com/transitive-bullshit/chatgpt-api)  
+【GitHub】[几步即可获得一个基于 ChatGPT 的微信机器人](https://github.com/AutumnWhj/ChatGPT-wechat-bot)  
+【GitHub】[ChatGPT for Google](https://github.com/wong2/chatgpt-google-extension)    
+【GitHub】[Curated list of resources for ChatGPT and GPT-3 from OpenAI](https://github.com/humanloop/awesome-chatgpt)  
+【GitHub】[OpenAI ChatGPT 的逆向工程SDK。直接使用网页最新ChatGPT。](https://github.com/PlexPt/chatgpt-java)  
+【GitHub】[ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.](https://github.com/skydoves/chatgpt-android)  
+【GitHub】[ChatGPT Extension for VSCode](https://github.com/mpociot/chatgpt-vscode)  
+【GitHub】[ChatGPT Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop)  
+【GitHub】[PyChatGPT](https://github.com/rawandahmad698/PyChatGPT)  
+【GitHub】[OpenAI Teams Bot app](https://github.com/formulahendry/openai-teams-bot)  
+【GitHub】[chatgpt.js client-side library](https://github.com/chatgptjs/chatgpt.js)  
+【GitHub】[ChatGPT Auto Refresh keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks](https://github.com/adamlui/chatgpt-auto-refresh)  
+【GitHub】[DuckDuckGPT adds ChatGPT to DuckDuckGo](https://github.com/kudoai/duckduckgpt)  
+【GitHub】[BraveGPT adds ChatGPT to Brave Search](https://github.com/kudoai/bravegpt)  
+【GitHub】[ChatGPT Auto-Continue automatically continues generating multi-message responses](https://github.com/adamlui/chatgpt-auto-continue)  
+【GitHub】[ChatGPT Infinity generates endless answers to random questions in any language](https://github.com/adamlui/chatgpt-infinity)  
+【GitHub】[ChatGPT Widescreen adds widescreen + full-window modes](https://github.com/adamlui/chatgpt-widescreen)  
+【GitHub】[Autoclear ChatGPT History](https://github.com/adamlui/autoclear-chatgpt-history)  
 
 </details>
 
-## Github-ChatGPT-周边
+## GitHub-ChatGPT-周边
 【ChatRWKV】[ChatRWKV is like ChatGPT but powered by my RWKV language model](https://github.com/BlinkDL/ChatRWKV)  
 
-## Github-GPT系列
+## GitHub-GPT系列
 【GPT系列项目】[GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese)  
 
 
