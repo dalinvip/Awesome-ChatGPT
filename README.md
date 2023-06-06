@@ -48,6 +48,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【PDF资料】[GPT-4-震撼发布,AI算法之巅.pdf](GPT4相关/GPT-4震撼发布-AI算法之巅.pdf)  
 【PDF资料】[GPT-4-技术报告-中文.pdf](GPT4相关/GPT-4技术报告.pdf)  
 【PDF资料】[GPT-4 Technical Report.pdf](GPT4相关/gpt-4.pdf)  
+【更多】https://szqxz4m7fs.feishu.cn/wiki/QpqewmZSjiaNFqkDujSc0Pfjntb  
 
 ## 百度-文心一言
 【文心一言】[文心一言，期待与你相见](https://mp.weixin.qq.com/s/tUGwuNQi9UjSPVyeEGVEsQ)  
@@ -57,6 +58,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【PDF资料】[首创证券：文心一言接入生态伙伴，AIGC关注度持续.pdf](百度-文心/首创证券：文心一言接入生态伙伴，AIGC关注度持续.pdf)  
 【PDF资料】[ChatGPT系列—百度文心一言解读20230315.pdf](百度-文心/ChatGPT系列—百度文心一言解读20230315.pdf)  
 【PDF资料】[文心一言测试指引.pdf](百度-文心/文心一言测试指引.pdf)  
+【更多】https://szqxz4m7fs.feishu.cn/wiki/QpqewmZSjiaNFqkDujSc0Pfjntb  
 
 
 ## 新闻时讯
@@ -114,6 +116,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【PDF资料】[揭秘ChatGPT身后的AIGC技术和它的中国同行们.pdf](PDF/揭秘ChatGPT身后的AIGC技术和它的中国同行们.pdf)  
 【PDF资料】[ChatGPT_Prompts_使用场景.pdf](PDF/ChatGPT/ChatGPT_Prompts_使用场景.pdf)  
 【PDF资料】[ChatGPT过去现在与未来.pdf](PDF/ChatGPT/ChatGPT过去现在与未来.pdf)   
+【更多】https://szqxz4m7fs.feishu.cn/wiki/QpqewmZSjiaNFqkDujSc0Pfjntb  
 
 </details>
  
