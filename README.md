@@ -21,7 +21,10 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 - AI绘画，特别是MJ、SD的资料收录，使用教程，实践分享等等
 - Prompt提示词已经是不可忽略的一部分，必须掌握的一些资料
 - AI高质量文章收录
-- 2000+人交流社群  
+- 技术专区
+- AI工具合集
+- AI导航网站汇总
+- 3000+人交流社群  
 - 地址：https://szqxz4m7fs.feishu.cn/wiki/wikcnMJ5qdVdOJ03XsBZFuXIRkf
 
 | 拉你入500人大群(备注ChaGPT-github) | 扫码入群 |
