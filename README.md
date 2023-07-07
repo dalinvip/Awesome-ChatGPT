@@ -34,18 +34,6 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 | ----  | ----  |
 | <img src="pic/dalinvip.jpeg" width="180"/> | <img src="pic/AIGC1.png" width="200" /> | 
 
-<!--
-## 交流共享
-
-【免费交流群】欢迎👏🏻👏🏻👏🏻加入ChatGP交流群，与AI领域专家和各行各业的ChatGPT爱好者一起交流碰撞💥💥💥！不管你是专业人士还是爱好者，都欢迎加入群体！目前1/2/3/4群都近满500人   
-【低门槛社群】低门槛社群目标1000人，遇见一群能主动分享的大佬，一群能信任的朋友，很好，知识库有最后一批优惠券  
-
-| 拉你入群(备注ChaGPT-github) | 低门槛付费社群(微信扫码) |
-| ----  | ----  |
-| <img src="pic/dalinvip.jpeg" width="180"/> | <img src="pic/GPTjjijie.png" width="200" /> | 
--->
-
-
 ## GPT-4
 【GPT-4】[GPT-4震撼发布：多模态大模型，直接升级ChatGPT、必应，开放API，游戏终结了？](https://mp.weixin.qq.com/s/kA7FBZsT6SIvwIkRwFS-xw)  
 【GPT-4】[GPT4震撼发布！哈佛教授：程序员职业3年内将被终结](https://mp.weixin.qq.com/s/c0KR3Jv_1Y3216N7SlOO3Q)  
