@@ -22,7 +22,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 
 ## AI产品榜
 
-- 地址：aicpb.com/  
+- 地址：http://aicpb.com  
 
 AI产品榜 适合谁看  
 
