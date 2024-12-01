@@ -154,13 +154,13 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【GitHub】[ChatGPT Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop)  
 【GitHub】[PyChatGPT](https://github.com/rawandahmad698/PyChatGPT)  
 【GitHub】[OpenAI Teams Bot app](https://github.com/formulahendry/openai-teams-bot)  
-【GitHub】[chatgpt.js client-side library](https://github.com/chatgptjs/chatgpt.js)  
+【GitHub】[chatgpt.js client-side library](https://github.com/kudoai/chatgpt.js)  
 【GitHub】[ChatGPT Auto Refresh keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks](https://github.com/adamlui/chatgpt-auto-refresh)  
 【GitHub】[DuckDuckGPT adds ChatGPT to DuckDuckGo](https://github.com/kudoai/duckduckgpt)  
 【GitHub】[BraveGPT adds ChatGPT to Brave Search](https://github.com/kudoai/bravegpt)  
 【GitHub】[ChatGPT Auto-Continue automatically continues generating multi-message responses](https://github.com/adamlui/chatgpt-auto-continue)  
 【GitHub】[ChatGPT Infinity generates endless answers to random questions in any language](https://github.com/adamlui/chatgpt-infinity)  
-【GitHub】[ChatGPT Widescreen adds widescreen + full-window modes](https://github.com/adamlui/chatgpt-widescreen)  
+【GitHub】[ChatGPT Widescreen adds widescreen + fullscreen modes](https://github.com/adamlui/chatgpt-widescreen)  
 【GitHub】[Autoclear ChatGPT History](https://github.com/adamlui/autoclear-chatgpt-history)  
 
 </details>
