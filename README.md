@@ -8,9 +8,6 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【大林，NLP/大模型算法工程师， 个人主页】[个人主页](https://www.dalinaip.com/about)  
 
 
-**特别推荐**一个热门 AI 模型在线体验网站，包括DeepSeek/Qwen/LLAMA/GLM等最新模型，可以免费用10小时、并且使用万卡RTX40系资源 [点这里一键直达 https://www.compshare.cn/image-community](https://www.compshare.cn/image-community?referral_code=px4Z4sZhdgB0ExFvae9SQ&ytag=GPU_Github_dalin)
-
-
 ![ChatGPT](./pic/chatgpt-head.png)
 
 <div align=center>
