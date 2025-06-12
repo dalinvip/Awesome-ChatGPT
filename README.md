@@ -163,6 +163,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【GitHub】[ChatGPT Infinity generates endless answers to random questions in any language](https://github.com/adamlui/chatgpt-infinity)  
 【GitHub】[ChatGPT Widescreen adds widescreen + full-window modes](https://github.com/adamlui/chatgpt-widescreen)  
 【GitHub】[Autoclear ChatGPT History](https://github.com/adamlui/autoclear-chatgpt-history)  
+【GitHub】[Chatpad](https://github.com/Pi-31415/Chatpad/)
 
 </details>
 
