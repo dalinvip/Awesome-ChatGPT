@@ -167,7 +167,8 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 </details>
 
 ## GitHub-ChatGPT-周边
-【ChatRWKV】[ChatRWKV is like ChatGPT but powered by my RWKV language model](https://github.com/BlinkDL/ChatRWKV)  
+【ChatRWKV】[ChatRWKV is like ChatGPT but powered by my RWKV language model](https://github.com/BlinkDL/ChatRWKV)
+【GEOScore】[免费AI搜索可见性扫描工具，检测网站是否能被ChatGPT、Perplexity、Claude和Gemini发现和引用](https://geoscoreai.com)
 
 ## GitHub-GPT系列
 【GPT系列项目】[GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese)  
