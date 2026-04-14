@@ -18,6 +18,7 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 ## 紧跟AIGC风向知识库
 持续关注AIGC相关动态、研究报告、相关资料、商业落地等，包括但不限于ChatGPT相关问题、AI绘画相关落地、国内大模型研究进展、开源模型进展、资料汇总等  
 - 地址：https://szqxz4m7fs.feishu.cn/wiki/wikcnMJ5qdVdOJ03XsBZFuXIRkf
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 | 拉你入交流群(备注ChaGPT-github) |
 | ----  |
