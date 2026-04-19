@@ -16,6 +16,9 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 </div>   
 
 ## 紧跟AIGC风向知识库
+
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 持续关注AIGC相关动态、研究报告、相关资料、商业落地等，包括但不限于ChatGPT相关问题、AI绘画相关落地、国内大模型研究进展、开源模型进展、资料汇总等  
 - 地址：https://szqxz4m7fs.feishu.cn/wiki/wikcnMJ5qdVdOJ03XsBZFuXIRkf
 
