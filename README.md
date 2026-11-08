@@ -164,6 +164,8 @@ ChatGPT再一次掀起了AI的热潮，是否还会像BERT一样成为AI进程�
 【GitHub】[ChatGPT Widescreen adds widescreen + full-window modes](https://github.com/adamlui/chatgpt-widescreen)  
 【GitHub】[Autoclear ChatGPT History](https://github.com/adamlui/autoclear-chatgpt-history)  
 
+【GitHub】[Heym：可自托管的 AI Agent 工作流运行平台，支持人工审批、MCP 工具和执行追踪（MIT + Commons Clause）](https://github.com/heymrun/heym)
+
 </details>
 
 ## GitHub-ChatGPT-周边
